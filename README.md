@@ -13,10 +13,10 @@
 ![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=souravsamaddar77-eng&show_icons=true&theme=tokyonight)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souravsamaddar77-eng&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=souravsamaddar77-eng)
 
 **souravsamaddar77-eng/souravsamaddar77-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
